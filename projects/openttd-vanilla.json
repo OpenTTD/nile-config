@@ -1,6 +1,6 @@
 {
     "name": "OpenTTD",
-    "format": "openttd",
+    "dialect": "openttd",
     "upstream": "https://github.com/OpenTTD/OpenTTD",
     "languages": [
         "nl_NL",
