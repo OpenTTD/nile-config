@@ -1,0 +1,13 @@
+{
+    "name": "German",
+    "ownname": "Deutsch",
+    "isocode": "de_DE",
+    "plural": 0,
+    "textdir": "ltr",
+    "digitsep": ".",
+    "digitsepcur": ".",
+    "decimalsep": ",",
+    "winlangid": 1031,
+    "grflangid": 2,
+    "gender": [ "m", "w", "n", "p" ]
+}

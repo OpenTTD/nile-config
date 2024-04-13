@@ -1,0 +1,10 @@
+{
+    "name": "OpenTTD",
+    "format": "openttd",
+    "upstream": "https://github.com/OpenTTD/OpenTTD",
+    "languages": [
+        "nl_NL",
+        "de_DE",
+        "la_VA"
+    ]
+}

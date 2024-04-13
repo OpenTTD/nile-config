@@ -1,0 +1,12 @@
+{
+    "name": "Dutch",
+    "ownname": "Nederlands",
+    "isocode": "nl_NL",
+    "plural": 0,
+    "textdir": "ltr",
+    "digitsep": ".",
+    "digitsepcur": ".",
+    "decimalsep": ",",
+    "winlangid": 1043,
+    "grflangid": 31
+}

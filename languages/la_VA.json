@@ -1,0 +1,14 @@
+{
+    "name": "Latin",
+    "ownname": "Latina",
+    "isocode": "la_VA",
+    "plural": 0,
+    "textdir": "ltr",
+    "digitsep": "{NBSP}",
+    "digitsepcur": "{NBSP}",
+    "decimalsep": ".",
+    "winlangid": 1142,
+    "grflangid": 102,
+    "gender": [ "m", "f", "n", "mp", "fp", "np" ],
+    "case": [ "gen", "acc", "abl", "dat" ]
+}
