@@ -2,6 +2,7 @@
     "name": "OpenTTD",
     "dialect": "openttd",
     "upstream": "https://github.com/OpenTTD/OpenTTD",
+    "path": "src/lang",
     "languages": [
         "nl_NL",
         "de_DE",
